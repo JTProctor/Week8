@@ -1,0 +1,11 @@
+---
+title: "Analysis"
+format: html
+editor: visual
+---
+
+# Adding the data set 
+
+```{r}
+summary(iris)
+```
